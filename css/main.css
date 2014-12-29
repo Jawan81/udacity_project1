@@ -1,53 +1,65 @@
 body {
 	font-family: "Lucida Grande", sans-serif;
-	color: #666666;
+	color: #666;
 }
+
 
 h1 {
-	color: #666666;
-	font-size: 3.2em;
-	letter-spacing: 0.037em;
+	color: #666;
+	font-size: 3.3em;
+	letter-spacing: 0.022em;
+	margin: 21px 0 0 0;
 }
+
 
 h2 {
-	color: #F07C17;
+	color: #f07c17;
 	font-size: 1.7em;
 	font-weight: bold;
-	letter-spacing: 0.00em;
+	letter-spacing: -0.004em;
 }
+
 
 .title {
-	margin-top: 26px;
+	margin: 26px 0 10px 0;
 }
 
+
 .features-outer {
-	border: 1px solid #CCCCCC;
+	border: 1px solid #ccc;
 	margin-top: 30px;
 }
 
+
 .features-inner {
-	margin: 30px 20px 40px;
+	margin: 30px 20px 40px 15px;
 }
+
 
 .features-title {
 	margin-left: 15px;
+	letter-spacing: 0.2px;
 }
+
 
 .plain-text {
 	font-size: 1.15em;
 }
 
+
 .text {
 	line-height: 2;
-	margin-top: 31px;
+	margin-top: 30px;
+	letter-spacing: 0.002em;
 }
+
 
 .feature-list {
 	line-height: 2.05;
-	margin-left: 11px;
-	margin-top: 29px;
+	margin: 29px 0 0 16px;
 }
 
+
 .left-menu {
-	margin-top: 21px;
+	margin-top: 20px;
 }
